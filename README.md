@@ -6,9 +6,9 @@ If any of the task is to be deleted before completing it, discuss and delete**
 
 
 TODO List:
-
+'''
 1. Change gallery pics from induction day's to students activities.
 2. Upload Rahul sir's pic
 3. Make changes to What is ACM section if any.
 4. Make changes to cell pages.
-
+'''
