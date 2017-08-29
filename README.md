@@ -17,5 +17,5 @@ TODO List:
 - [ ] Remove the <href> from the name of Core Team members from the footer.
 - [ ] Collect Social Site Links from all CESA mambers.
 - [ ] Increase The size of Tenxt In Header (Team.Cell,contact erc..)
-- [ ] Remove the pic and text below the 'What is ACM?'
-- [ ] Make the size of Rahul sir's and Sonali mam photos same as that of core team members photos (suggestion by Rahul sir😊)
+- [x] Remove the pic and text below the 'What is ACM?'
+- [x] Make the size of Rahul sir's and Sonali mam photos same as that of core team members photos (suggestion by Rahul sir😊)
