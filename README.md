@@ -16,4 +16,5 @@ TODO List:
 - [ ] Add API Configuration to trigger subscription list form (Contact Atharva for MailChimp Setup in PHP).
 - [ ] Remove the <href> from the name of Core Team members from the footer.
 - [ ] Collect Social Site Links from all CESA mambers.
-
+- [ ] Increase The size of Tenxt In Header (Team.Cell,contact erc..)
+- [ ] Remove the pic and text below the 'What is ACM?'
