@@ -19,3 +19,5 @@ TODO List:
 - [x] Increase The size of Tenxt In Header (Team.Cell,contact erc..)
 - [x] Remove the pic and text below the 'What is ACM?'
 - [x] Make the size of Rahul sir's and Sonali mam photos same as that of core team members photos (suggestion by Rahul sir😊)
+- [x] Update footer of all Cell Pages.
+- [] Update header of all Cell Pages.
