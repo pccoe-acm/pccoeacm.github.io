@@ -9,7 +9,7 @@ TODO List:
 
 - [ ] Change gallery pics from induction day's to students activities.
 - [x] Add/Replace Rahul sir's pic
-- [ ] Make changes to What is ACM section if any.
+- [x] Make changes to What is ACM section if any.
 - [ ] Make changes to cell pages.
 - [x] Add Updated PHP file and Contact.html form with API key With Gooogle Maps (JAVA).
 - [x] Add/Replace Sonali Mam's Pic.
